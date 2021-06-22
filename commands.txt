@@ -1,0 +1,2 @@
+docker build --tag dccassgn-main .
+docker run --publish 8000:8000 dccassgn-main
